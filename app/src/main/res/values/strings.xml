@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DroidGate</string>
+
+    <!-- Networking: settings -->
+    <string name="server_protocol" translatable="false">https://</string>
+    <string name="server_hostname" translatable="false">192.168.1.9</string>
+    <string name="server_path" translatable="false">/droidgate_web/api.php</string>
+    <string name="server_encoding" translatable="false">UTF-8</string>
+    <string name="server_request_method" translatable="false">POST</string>
+    <string name="server_request_param" translatable="false">request</string>
+    <string name="server_cookie_response_key" translatable="false">Set-Cookie</string>
+    <string name="server_cookie_request_key" translatable="false">Cookie</string>
+    <string name="internal_key_session_id" translatable="false">session_id</string>
+    <string name="server_failure">We were unable to complete the request to %s, please try again later.</string>
+    <string name="server_malformed_url">Malformed URL, did you modify the application?</string>
+    
+    <!-- Networking: requests -->
+    <string name="server_request_getServiceStatus">getServiceStatus</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to MainActivity -> Home -->
+    <string name="home_welcome">Welcome to %s!\n\nSwipe from the left or tap the hamburger button at the top-left corner to begin.</string>
+    <string name="home_status">Service status: %s</string>
+    <string name="home_status_loading">loading…</string>
+    <string name="home_status_pass">everything is working properly!</string>
+    <string name="home_status_error">there\'s an ongoing problem.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d500f9</color> <!-- purple accent-3 MaterializeCSS) -->
+    <color name="colorPrimaryDark">#aa00ff</color> <!-- purple accent-4 (MaterializeCSS) -->
+    <color name="colorAccent">#D81B60</color>
+    <color name="textMuted">#80858585</color>
+</resources>

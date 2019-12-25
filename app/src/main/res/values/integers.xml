@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="password_length_min">5</integer>
+    <integer name="server_port">443</integer>
+    <integer name="connection_timeout">5000</integer>
+</resources>
